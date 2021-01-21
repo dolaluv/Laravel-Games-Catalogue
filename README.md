@@ -11,6 +11,13 @@ create a database
 php artisan migrate
 
 
+i created playters randomly using the faker class;
+
+i used sql query to created random gamesplay in the database 
+
+Below is the link to generate random Data
+
+
 
 
 The application is written in laravel. It is a rest APi that returns Json Object
