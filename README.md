@@ -20,6 +20,10 @@ Below is the link to generate random Data
 https://drive.google.com/file/d/1JDBA4J_CXugMxa2YvF1CFyX_e24EGnbv/view?usp=sharing
 
 
+Below is the url where the application is been published
+
+http://mid4tech.com.ng/Games/
+
 
 The application is written in laravel. It is a rest APi that returns Json Object
 
