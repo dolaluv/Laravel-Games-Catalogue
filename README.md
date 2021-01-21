@@ -2,6 +2,17 @@
 
 ## About Games Catalogue
 
+Download the file and run the below
+
+composer update
+
+create a database
+
+php artisan migrate
+
+
+
+
 The application is written in laravel. It is a rest APi that returns Json Object
 
 -Return all the games[ http://127.0.0.1:8000/api/DisplayAllgames ]
