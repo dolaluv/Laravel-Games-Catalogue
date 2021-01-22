@@ -27,8 +27,7 @@ http://mid4tech.com.ng/Games/
 
 The application is written in laravel. It is a rest APi that returns Json Object
 
--Return all the games[ http://127.0.0.1:8000/api/DisplayAllgames ]
--Return all the players, their games and their gameplays(Overall) [ http://127.0.0.1:8000/api/DisplayAllPlayersGames ]
--Return all the games played per day and their players [ http://127.0.0.1:8000/api/DisplayGamesPerDay]
--Return all the games played within a date range [ http://127.0.0.1:8000/api/GameWithinDateRange/{StartDate}/{EndDate} ] Date Format: YYYY:MM:DD
-
+-Return all the games[ http://mid4tech.com.ng/Games/api/DisplayAllgames ]
+-Return all the players, their games and their gameplays(Overall) [http://mid4tech.com.ng/Games/api/DisplayAllPlayersGames ]
+-Return all the games played per day and their players [http://mid4tech.com.ng/Games/DisplayGamesPerDay]
+-Return all the games played within a date range [ http://mid4tech.com.ng/Games/{StartDate}/{EndDate} ] Date Format: YYYY:MM:DD
