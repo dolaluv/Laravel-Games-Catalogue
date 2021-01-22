@@ -24,6 +24,10 @@ Below is the url where the application is been published
 
 http://mid4tech.com.ng/Games/
 
+Kindly note that 1,500 record daily (2010-1-2 to 2010-1-4) 
+
+Low disk space limits the data to be the above
+
 
 The application is written in laravel. It is a rest APi that returns Json Object
 
