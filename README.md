@@ -8,12 +8,12 @@ composer update
 
 create a database
 
-php artisan migrate
+php artisan migrate  -- run this command
 
 
-i created playters randomly using the faker class;
+i created players randomly using the faker class;
 
-i used sql query to created random gamesplay in the database 
+i used sql query to create random gamesplay in the database 
 
 Below is the link to generate random Data
 
